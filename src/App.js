@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          "The higher fidelity that raises rocks"
         </a>
       </header>
     </div>
